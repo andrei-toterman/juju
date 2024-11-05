@@ -502,6 +502,7 @@ var defaultCloudDescription = map[string]string{
 	"azure-china": "Microsoft Azure China",
 	"lxd":         "LXD Container Hypervisor",
 	"maas":        "Metal As A Service",
+	"multipass":   "Multipass",
 	"openstack":   "Openstack Cloud",
 	"oracle":      "Oracle Compute Cloud Service",
 	"kubernetes":  "A Kubernetes Cluster",
